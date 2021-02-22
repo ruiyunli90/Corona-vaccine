@@ -15,5 +15,7 @@ Authors: Ruiyun Li, Ottar N. Bjornstad, Nils Chr. Stenseth
 
 (2) *Contact matrices*: Age-specific # of contacts
 
+(3) *IFR*: Infection-fatality ratio
+
 <br />
 Questions should be addressed to Dr. Ruiyun Li (ruiyunli1991@gmail.com)
