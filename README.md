@@ -1,7 +1,7 @@
 # Corona-vaccine
 Data and code used for:
 
-**Cyclically switching target vaccination groups to achieve long-lasting benefits**
+**Switching vaccination among target groups to achieve improved long-lasting benefits**
 
 Authors: Ruiyun Li, Ottar N. Bjornstad, Nils Chr. Stenseth
 
